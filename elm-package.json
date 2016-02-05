@@ -2,7 +2,7 @@
     "version": "0.0.1",
     "name": "elm-example",
     "summary": "My first Elm repo",
-    "repository": "https://github.com/adjohnston/elm-example",
+    "repository": "https://github.com/adjohnston/elm-example.git",
     "license": "MIT",
     "source-directories": [
         "."
